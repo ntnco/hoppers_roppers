@@ -10,9 +10,9 @@ The magic number of the logo is `89 50 4E 47`. This number confirms that it's a 
 
 ![answer](./Screenshot_2020-11-06_222725.png)
 
-## Number of bits for each character in ASCII
+## Number of bits of any ASCII character
 
-8 bits. This is also the size of a byte.
+A character is stored on 8 bits, also known as 1 byte.
 
 ## Manually converting an ASCII String
 
