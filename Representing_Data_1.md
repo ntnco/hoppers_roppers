@@ -6,7 +6,7 @@ The magic number of the logo is `89 50 4E 47`. This number confirms that it's a 
 
 ## Color challenge completion
 
-![answer](Screenshot 2020-11-06 222725.png)
+![answer](./Screenshot 2020-11-06 222725.png)
 
 ## Number of bits for each character in ASCII
 
