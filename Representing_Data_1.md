@@ -32,7 +32,7 @@ When it starts with `011` it's a lowercase letter, while `001` means uppercase. 
 
 ### To binary
 
-Digits in ASCII always start with `0011`, so 1 is `00110001` and 7 is `00110111`. The solution is therefore `0b0011000100110111`
+Digits in ASCII always start with `0011`, so 1 is `00110001` and 7 is `00110111`. The solution is therefore `00110001 00110111`
 
 ### To hex
 
