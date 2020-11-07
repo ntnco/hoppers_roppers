@@ -18,7 +18,7 @@ The magic number of the logo is `89 50 4E 47`. This number confirms that it's a 
 
 `01101000 01100101 01101100 01101100 01101111 00100001`
 
-So we know that if it starts with `011` it's lowercase letters while `001` would be uppercase. All that is left for us to do is to spot the letter that corresponds to each index. We get:
+When it starts with `011` it's a lowercase letter, while `001` means uppercase. All that is left for us to do is to map the rest of the number to a letter based on alphabetical index. We get:
 
 * `1000` is 8, the 8th letter, **h**
 * `101` is 5, the 5th letter is **e**
