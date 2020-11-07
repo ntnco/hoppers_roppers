@@ -20,7 +20,7 @@ A character is stored on 8 bits, also known as 1 byte.
 
 When it starts with `011` it's a lowercase letter, while `001` means uppercase. All that is left for us to do is to map the rest of the number to a letter based on alphabetical index. We get:
 
-* `1000` is 8, the 8th letter, **h**
+* `1000` is 8, the 8th letter is **h**
 * `101` is 5, the 5th letter is **e**
 * `1100` is 12, the 12th letter is **l**
 * `1100` is the same as before, **l**
