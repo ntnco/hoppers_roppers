@@ -1,5 +1,7 @@
 # Representing Data 1
 
+[Instructions](https://academy.hoppersroppers.org/mod/assign/view.php?id=570)
+
 ## Magic number of the logo
 
 The magic number of the logo is `89 50 4E 47`. This number confirms that it's a `.png` file. A magic number is generally composed of hexadecimal characters; it helps identify the type of the file we are dealing with.
