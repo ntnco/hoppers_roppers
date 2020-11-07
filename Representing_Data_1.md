@@ -87,4 +87,4 @@ which gives us
   `01101111 01110101 01110010`
 
 * Finally we decode each byte as an ASCII character
-  [19, 9, 16, 20, 25, 6, 15, 21, 18] => "sixtyfour"
+  [19, 9, 24, 20, 25, 6, 15, 21, 18] => "sixtyfour"
